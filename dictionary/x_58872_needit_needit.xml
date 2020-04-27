@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" extends="task" label="NeedIt" max_length="40" name="x_58872_needit_needit" type="collection">
+    <element audit="true" extends="task" label="NeedIt" max_length="40" name="x_58872_needit_needit" sizeclass="7" type="collection">
         <element label="New Field 1" max_length="40" name="new_field_1" type="integer"/>
         <element label="New field 2" max_length="40" name="new_field_2" type="integer"/>
         <element label="When needed" max_length="80" name="u_field_name_4" type="field_name"/>
